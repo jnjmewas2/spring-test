@@ -1,0 +1,6 @@
+###
+GET http://localhost:8080/v1/place?q=성남시 분당구 은행
+
+
+###
+GET http://localhost:8080/v1/keyword
